@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>مدرسة ضياء المستقبل</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+    <h1>مدرسة ضياء المستقبل</h1>
+    <nav>
+        <a href="#about">عن المدرسة</a>
+        <a href="#teachers">الكادر التدريسي</a>
+        <a href="#classes">الصفوف</a>
+        <a href="#achievements">الإنجازات</a>
+        <a href="#vision">الرؤية</a>
+        <a href="#contact">تواصل</a>
+    </nav>
+</header>
+
+<section class="hero">
+    <h2>مرحبًا بكم في مدرسة ضياء المستقبل</h2>
+    <p>نبني جيلاً واعياً لمستقبل مشرق</p>
+</section>
+
+<section id="about">
+    <h2>عن المدرسة</h2>
+    <p>مدرسة تهدف إلى تطوير الطلاب علميًا وأخلاقيًا باستخدام أحدث الأساليب التعليمية.</p>
+</section>
+
+<section id="teachers">
+    <h2>الكادر التدريسي</h2>
+    <div class="cards">
+        <div class="card">👩‍🏫 معلمة رياضيات</div>
+        <div class="card">👨‍🏫 معلم علوم</div>
+        <div class="card">👩‍🏫 معلمة لغة عربية</div>
+    </div>
+</section>
+
+<section id="classes">
+    <h2>الصفوف الدراسية</h2>
+    <div class="cards">
+        <div class="card">📘 الصف الأول</div>
+        <div class="card">📗 الصف الثاني</div>
+        <div class="card">📙 الصف الثالث</div>
+    </div>
+</section>
+
+<section id="achievements">
+    <h2>الإنجازات</h2>
+    <ul>
+        <li>🏆 فوز الطلاب بمسابقات علمية</li>
+        <li>🏅 تكريم المعلمين المتميزين</li>
+        <li>🎖️ إنجازات المدرسة التعليمية</li>
+    </ul>
+</section>
+
+<section id="vision">
+    <h2>الرؤية والأهداف</h2>
+    <p>الريادة في التعليم وبناء جيل مبدع.</p>
+    <ul>
+        <li>تنمية مهارات الطلاب</li>
+        <li>تعزيز القيم</li>
+        <li>استخدام التكنولوجيا</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>تواصل معنا</h2>
+    <p>📞 12345678</p>
+    <p>📧 school@email.com</p>
+</section>
+
+<footer>
+    <p>© 2026 مدرسة ضياء المستقبل</p>
+</footer>
+
+</body>
+</html>
